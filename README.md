@@ -1,5 +1,5 @@
 # OnlineGDB-GUI
-An idea for update of GUI for the website onlinegdb.com that is used by most of the beginner starting their coding journey.
+An idea for updation of GUI for the website onlinegdb.com that is used by most of the beginners, starting their coding journey.
 
 ### This Repository has 3 folders
 1. **Code Files** containing a python code for the OnlineGDB GUI using the Tkinter library.
