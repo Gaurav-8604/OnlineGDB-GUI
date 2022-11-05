@@ -13,4 +13,4 @@ Tkinter library is used to create the above GUI in python.
 1. You can run the project by normal commands used in CLI for python
 2. You can also use VSCode extension to run the python files
 
-**Note that you need to run the ```homepage_window.py``` file. **
+**Note that you need to run the ``homepage_window.py`` file.**
