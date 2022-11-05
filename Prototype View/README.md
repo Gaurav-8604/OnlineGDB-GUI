@@ -6,5 +6,7 @@ This prototype also has working functionalities of the onlinegdb.com GUI.
 
 ## Downloading the *Justinmind Prototype maker*
 One can download the software from https://www.justinmind.com/ website.
-For running the prototype, one must have the premium of the *Prototype maker* or can use the given 15 days premium trial.
+For running the prototype, one must have the premium of the *Justinmind Prototype maker* or can use the given 15 days premium trial.
 For just viewing the prototype, the free version is accessible to everyone.
+
+**Note: Avoid changing the file contents that may hamper its functional use**
