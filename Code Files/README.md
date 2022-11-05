@@ -1,4 +1,4 @@
-# Python Code for the GUI
+# Code Files (Python Code for the GUI)
 Tkinter library is used to create the above GUI in python.
 
 ## Installing Tkinter
